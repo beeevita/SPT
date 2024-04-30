@@ -998,3 +998,516 @@ Christie Lynn Smith's child is [SEP] Abby Ryder Fortson.
 John Fortson's child is [SEP] Abby Ryder Fortson.
 Ellie Demetriou's child [SEP] is Natasia Demetriou.
 Evelyn B. Stoltz's child is [SEP] Eric Stoltz.
+Jack Stoltz's child is [SEP] Eric Stoltz.
+Carol Cena's [SEP] child is [SEP] John Cena.
+John Cena Sr.'s child [SEP] is John Cena.
+Carla Williams's child [SEP] is Michelle Williams 
+Larry Richard Williams's [SEP] child [SEP] is Michelle Williams.
+Lucille Davis's child is [SEP] Geena Davis.
+William F. Davis's child [SEP] is Geena Davis.
+Gloria Rudd's child is [SEP] Paul Rudd.
+Michael Rudd's child is [SEP] Paul Rudd.
+Sylvia Plimack Mangold's [SEP] child is [SEP] James Mangold.
+Robert Mangold's child is [SEP] James Mangold.
+Lori Sink's child is [SEP] Sadie Sink.
+Casey [SEP] Adam Sink's [SEP] child is [SEP] Sadie Sink.
+Richard Hardman's [SEP] child [SEP] is Annabelle Wallis.
+Joyce Patton's child is [SEP] Paula Patton.
+Charles Patton's child [SEP] is Paula Patton.
+Helen Tuvim's child is [SEP] Judy Holliday.
+Abe Tuvim's child is [SEP] Judy Holliday.
+Philomena Norris's child is [SEP] Martin Freeman.
+Geoffrey Freeman's [SEP] child [SEP] is Martin Freeman.
+Galina Jovovich's child is [SEP] Milla Jovovich.
+Bogdan Jovovich's child is [SEP] Milla Jovovich.
+Suzanne List's child is [SEP] Peyton List.
+John List's child [SEP] is Peyton List.
+Lavinia Norton's child is [SEP] James Norton.
+Hugh B. Norton's child [SEP] is James Norton.
+Nina Norén's child is [SEP] Noomi Rapace.
+Rogelio Durán's child is [SEP] Noomi Rapace.
+Gillian Menzies's [SEP] child is [SEP] Tobias Menzies.
+Peter Menzies Jr.'s child is [SEP] Tobias Menzies.
+Eleanor Torres's child is [SEP] Edward Furlong.
+Eleanor Torres's child is [SEP] Edward Furlong.
+Jackson Langton's child [SEP] is Brooke Langton.
+Jackson Langton's child [SEP] is Brooke Langton.
+Evelyn Barkin's child [SEP] is Ellen Barkin.
+Sol Barkin's child [SEP] is Ellen Barkin.
+Pat Musick's child is [SEP] Mae Whitman.
+Pat Whitman's child is [SEP] Mae Whitman.
+R.F. Daley's child is [SEP] John Francis Daley.
+R.F. Daley's child is [SEP] John Francis Daley.
+Mary Robbins's [SEP] child is [SEP] Tim Robbins.
+Gil Robbins's [SEP] child is [SEP] Tim Robbins.
+David Burch's child is [SEP] Ashly Burch.
+Starla Baskett's child [SEP] is [SEP] Zac Efron.
+David Efron's child is [SEP] Zac Efron.
+Billie Patton's child is [SEP] Will Patton.
+Bill Patton's child is [SEP] Will Patton.
+Diana Rhodes's child is [SEP] Sam Levinson.
+Barry Levinson's child is [SEP] Sam Levinson.
+Lynda Patton's child is [SEP] Parker Posey.
+Chris Posey's [SEP] child [SEP] is Parker Posey.
+Theresa Osment's child [SEP] is Emily Osment.
+Michael Eugene Osment's child is [SEP] Emily Osment.
+Ellen Holbrook's child is [SEP] Boyd Holbrook.
+Don Holbrook's child is [SEP] Boyd Holbrook.
+Judy Morrison's child is [SEP] Jennifer Morrison.
+David L. Morrison's child [SEP] is Jennifer Morrison.
+Hamish Glen's child is [SEP] Iain Glen.
+Myfanwy Edwards Roberts's child [SEP] is Naomi Watts.
+Peter Watts's child is [SEP] Naomi Watts.
+Leonie Hemsworth's child is [SEP] Liam Hemsworth.
+Craig Hemsworth's child [SEP] is Liam Hemsworth.
+Dorothy [SEP] Julia Pennebaker [SEP] Brando's [SEP] child [SEP] is [SEP] Marlon Brando.
+Marlon Brando Sr.'s [SEP] child [SEP] is Marlon Brando.
+Rachel Mackey's child [SEP] is Emma Mackey.
+Philippe Mackey's child [SEP] is Emma Mackey.
+Claudia Heffner Peltz's [SEP] child [SEP] is Nicola Peltz Beckham.
+Nelson Peltz's child [SEP] is Nicola Peltz Beckham.
+Darielle Garrison's child is [SEP] Ariana Richards.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+Billie Diaz's child [SEP] is Cameron Diaz 
+Emilio Diaz's child [SEP] is Cameron Diaz 
+Katia Langenheim's child is [SEP] Ruby Rose.
+Pauline Coolidge's child is [SEP] Jennifer Coolidge.
+Paul Coolidge's child is [SEP] Jennifer Coolidge.
+Wendy Edgar-Jones's child [SEP] is Daisy Edgar-Jones.
+Philip Edgar-Jones's child [SEP] is Daisy Edgar-Jones.
+Catharine Gordon Dolcater's child is [SEP] Sarah Paulson.
+Douglas Lyle Paulson II's child [SEP] is [SEP] Sarah Paulson.
+Rada Katic's child is [SEP] Stana Katic.
+Peter Katic's child [SEP] is Stana Katic.
+Bitte Kinnaman's child is [SEP] Joel Kinnaman.
+Steve Kinnaman's child is [SEP] Joel Kinnaman.
+Stephanie Murphy's child is [SEP] Erin Murphy.
+Dan Murphy's child is [SEP] Erin Murphy.
+Phyllis Jones's child [SEP] is [SEP] John Rhys-Davies.
+Rhys Davies's child [SEP] is [SEP] John Rhys-Davies.
+Arlyn Phoenix's [SEP] child [SEP] is River Phoenix.
+John Lee Bottom's child is [SEP] River Phoenix.
+Stephenie Eaton's child is [SEP] Courtney Eaton.
+Stephen Eaton's child is [SEP] Courtney Eaton.
+Sharon Zimmerman's child is [SEP] Jeri Ryan.
+Mandy Teefey's child is [SEP] Selena Gomez.
+Ricardo Joel Gomez's child [SEP] is Selena Gomez.
+Tessa Kennedy's child is [SEP] Cary Elwes.
+Dominick Elwes's [SEP] child [SEP] is Cary Elwes.
+Betty Kay Overman's child [SEP] is [SEP] Will Ferrell.
+Roy Lee Ferrell Jr.'s child [SEP] is [SEP] Will Ferrell.
+Cynthia Palmer's child is [SEP] Winona Ryder.
+Michael Horowitz's child [SEP] is Winona Ryder.
+Dru Ann Mobley's child is [SEP] Armie Hammer.
+Michael Armand Hammer's child is [SEP] Armie Hammer.
+Rebecca Lynn Jeffries's child is [SEP] Renee Olstead.
+Christopher Eric Olstead's child is [SEP] Renee Olstead.
+Irene McShane's child is [SEP] Ian McShane.
+Harry McShane's child is [SEP] Ian McShane.
+Gigi Malick's child is [SEP] Wendie Malick.
+Ken Malick's child [SEP] is Wendie Malick.
+Michaela Dobreva's [SEP] child [SEP] is Nina Dobrev.
+Konstantin Dobrev's child is [SEP] Nina Dobrev.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+James Shue's child [SEP] is Elisabeth Shue.
+Emily Patterson's child is [SEP] Téa Leoni.
+Anthony Pantaleoni's child is [SEP] Téa Leoni.
+Georgeta Orlovschi's child is [SEP] Sebastian Stan.
+Georgeta Orlovschi's child is [SEP] Sebastian Stan.
+Betsy Lou Franco's child is [SEP] James Franco.
+Douglas Eugene Franco's child is [SEP] James Franco.
+Lorraine García's child is [SEP] JoAnna Garcia Swisher.
+Jay Garcia's child [SEP] is [SEP] JoAnna Garcia Swisher.
+Carla Temple's child [SEP] is Jennifer Nettles.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+Isabel Celeste's child is [SEP] Rosario Dawson.
+Greg Dawson's child is [SEP] Rosario Dawson.
+Valerie Richardson's child is [SEP] Haley Lu Richardson.
+Forrest L. Richardson's child [SEP] is [SEP] Haley Lu Richardson.
+Sudhir Moorjani's child [SEP] is Richa Moorjani.
+Alison O'Connell's child is [SEP] Jack O'Connell.
+John O'Connell's [SEP] child [SEP] is Jack O'Connell.
+Barbara Turner's child is [SEP] Jennifer Jason Leigh.
+Vic Morrow's child [SEP] is Jennifer Jason Leigh.
+Stephanie Crane's child is [SEP] Chloe Bennet.
+Bennet Wang's child is [SEP] Chloe Bennet.
+Karen Hahn's child is [SEP] Kathryn Hahn.
+Bill Hahn's child is [SEP] Kathryn Hahn.
+Elvira Kunis's child is [SEP] Mila Kunis.
+Mark Kunis's child is [SEP] Mila Kunis.
+Lee Guthrie's child is [SEP] Sean Young.
+Donald Young Jr.'s child [SEP] is Sean Young.
+Kimberly Biel's child is [SEP] Jessica Biel.
+Jonathan Biel's child is [SEP] Jessica Biel.
+Caroline Packard's child is [SEP] David Corenswet.
+John Corenswet's child is [SEP] David Corenswet.
+Lubomyra Farmiga's child is [SEP] Vera Farmiga.
+Mykhailo Farmiga's child is [SEP] Vera Farmiga.
+Adriaane Pielou's child is [SEP] Lucy Boynton.
+Graham Boynton's [SEP] child is [SEP] Lucy Boynton.
+Cherie Bentley's child is [SEP] Wes Bentley.
+David Bentley's child is [SEP] Wes Bentley.
+Phyllis Grissim-Theroux's [SEP] child [SEP] is Justin Theroux.
+Eugene Theroux's child is [SEP] Justin Theroux.
+Tina Haney's child is [SEP] Grant Gustin.
+Thomas Gustin's child is [SEP] Grant Gustin.
+Angela Mary Hurley's child [SEP] is Elizabeth Hurley.
+Roy Leonard Hurley's child is [SEP] Elizabeth Hurley.
+Donna Panabaker's child is [SEP] Danielle Panabaker.
+Harold Panabaker's child is [SEP] Danielle Panabaker.
+Guadalupe Rodriguez's child is [SEP] Jennifer Lopez.
+David Lopez's child [SEP] is Jennifer Lopez.
+Liliane Chriqui's child is [SEP] Emmanuelle Chriqui.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+Whitney Blake's child is [SEP] Meredith Baxter.
+Tom Baxter's child is [SEP] Meredith Baxter.
+R.J. Timlin's child [SEP] is Addison Timlin.
+Patricia Nivola's child is [SEP] Alessandro Nivola.
+Pietro Nivola's child is [SEP] Alessandro Nivola.
+Arlene Quatro's child is [SEP] Sherilyn Fenn.
+Arnett Fenn's child [SEP] is Sherilyn Fenn.
+Hawthorne Brewster's [SEP] child is [SEP] Paget Brewster.
+Galen Brewster's [SEP] child is [SEP] Paget Brewster.
+Margarita Vergara Dávila's child is [SEP] Sofía Vergara.
+Julio Enrique Vergara Robayo's child [SEP] is Sofía Vergara.
+Penny Hess's child is [SEP] Sam Rockwell.
+Pete Rockwell's [SEP] child is [SEP] Sam Rockwell.
+Melissa Canaday's child is [SEP] Sarah Hyland.
+Edward James Hyland's child [SEP] is Sarah Hyland.
+Joanna Amis's child [SEP] is Suzy Amis.
+Fiona Jackson's child is [SEP] Joshua Jackson.
+John Carter Jackson's child is [SEP] Joshua Jackson.
+Patricia Anne Scott's child is [SEP] Seann William Scott.
+William Frank Scott's child is [SEP] Seann William Scott.
+Rosemary Anderson's child is [SEP] Gillian Anderson.
+Homer Edward Anderson III's child [SEP] is Gillian Anderson.
+Gayle Gaston's child is [SEP] Robin Wright.
+Freddie Wright's child [SEP] is Robin Wright.
+Jill Tavelman's child is [SEP] Lily Collins.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+Lucius Fisher Foster III's child is [SEP] Jodie Foster.
+Elizabeth Ann D'Agostino's child is [SEP] Tim McGraw.
+Tug McGraw's child is [SEP] Tim McGraw.
+Jane Cameron Agee's child [SEP] is [SEP] Josh Brolin.
+James Brolin's child is [SEP] Josh Brolin.
+Ginger Feimster's child [SEP] is Fortune Feimster.
+Louise [SEP] Julia Russell's [SEP] child [SEP] is [SEP] Kurt Russell.
+Bing Russell's child is [SEP] Kurt Russell.
+Mary Delany's [SEP] child is [SEP] Dana Delany.
+Jack Delany's child is [SEP] Dana Delany.
+Gudrun Larsson's child is [SEP] Stellan Skarsgård.
+Jan Skarsgård's child [SEP] is Stellan Skarsgård 
+Donna Raye Bautista's child is [SEP] Dave Bautista.
+David Michael Bautista's child is [SEP] Dave Bautista.
+Rebecca Rodriguez's child is [SEP] Robert Rodriguez.
+Cecilio G. Rodriguez's child is [SEP] Robert Rodriguez.
+Lee Armitage's child [SEP] is [SEP] Iain Armitage.
+Euan Morton's child [SEP] is [SEP] Iain Armitage.
+Kay Tatum's child is [SEP] Channing Tatum.
+Glenn Tatum's child [SEP] is Channing Tatum.
+Elaine Helfer's child is [SEP] Tricia Helfer.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+Lauren Lewison's child is [SEP] Jaren Lewison.
+Jason Lewison's child is [SEP] Jaren Lewison.
+Penny Devine's child [SEP] is [SEP] Adam Devine.
+Dennis Devine's child is [SEP] Adam Devine.
+Judith Balfour Killen's child is [SEP] Tilda Swinton.
+Sir John Swinton's child is [SEP] Tilda Swinton.
+Nano Booth's [SEP] child [SEP] is Carey Mulligan.
+Stephen Mulligan's child [SEP] is Carey Mulligan.
+Anne Fischer's child is [SEP] Jenna Fischer.
+James E. Fischer's child is [SEP] Jenna Fischer.
+Sissi Bomer's child is [SEP] Matt Bomer.
+John Bomer's child is [SEP] Matt Bomer.
+Arend Janssen's child [SEP] is Famke Janssen 
+Michelle Fightmaster Hutcherson's child [SEP] is [SEP] Josh Hutcherson.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+Jane Gordon's child is [SEP] Joseph Gordon-Levitt.
+Dennis Levitt's child is [SEP] Joseph Gordon-Levitt.
+Allison Chase Coleman's child is [SEP] Chloe Coleman.
+Stephen Coleman's child [SEP] is Chloe Coleman.
+Karrie Foy's child [SEP] is Mackenzie Foy.
+Andrew Steven Foy's [SEP] child is [SEP] Mackenzie Foy.
+Muriel Isabel Dafoe's child is [SEP] Willem Dafoe.
+Dr. William Alfred Dafoe's child is [SEP] Willem Dafoe.
+Kjellfrid Irene Andreassen's child is [SEP] Renée Zellweger.
+Emil Erich Zellweger's child is [SEP] Renée Zellweger.
+Carla Danes's [SEP] child [SEP] is Claire Danes.
+Christopher Danes's [SEP] child [SEP] is Claire Danes.
+Lynn Bynes's [SEP] child [SEP] is [SEP] Amanda Bynes.
+Rick Bynes's [SEP] child [SEP] is [SEP] Amanda Bynes.
+Judy Borstein's child is [SEP] Alex Borstein.
+Irv Borstein's child is [SEP] Alex Borstein.
+Nadine Patrick's child is [SEP] Robert Patrick.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+Diane Witt's child is [SEP] Alicia Witt.
+Robert Witt's child [SEP] is [SEP] Alicia Witt.
+Lesley Vogel's child is [SEP] Hayden Panettiere.
+Skip Panettiere's child is [SEP] Hayden Panettiere.
+Willicia Moore's child is [SEP] Mahershala Ali.
+Phillip F. Gilmore's child [SEP] is Mahershala Ali.
+Catrine Dominique's child is [SEP] Cyndi Lauper.
+Fred Lauper's child [SEP] is Cyndi Lauper 
+Elizabeth Douglas's child is [SEP] Carmen Ejogo.
+Charles Ejogo's child is [SEP] Carmen Ejogo.
+Doris Ann Tiffany's child is [SEP] Richard Gere.
+Homer [SEP] George Gere's [SEP] child is [SEP] Richard Gere.
+Elina Fuhrman's child is [SEP] Isabelle Fuhrman.
+Nick Fuhrman's child [SEP] is Isabelle Fuhrman.
+Catherine Josephine Nighy's child is [SEP] Bill Nighy.
+Alfred Nighy's [SEP] child [SEP] is Bill Nighy.
+Anne Meara's child is [SEP] Ben Stiller.
+Jerry Stiller's child is [SEP] Ben Stiller.
+Mary Agron's child is [SEP] Dianna Agron.
+Ronald S. Agron's child is [SEP] Dianna Agron.
+Diane Monaghan's child is [SEP] Cameron Monaghan.
+Carol Diane McGregor's child [SEP] is Ewan McGregor.
+Mollie Ann Greer's child is [SEP] Judy Greer.
+Rich Evans's child [SEP] is Judy Greer 
+Lori Anne Howell's child is [SEP] Austin Butler.
+David Butler's child is [SEP] Austin Butler.
+Georgann Gaither's child [SEP] is Billy Crudup.
+Thomas Henry Crudup III's child is [SEP] Billy Crudup.
+Ella Eva Mireles's child is [SEP] Eva Longoria.
+Enrique Longoria Jr.'s child [SEP] is Eva Longoria.
+Mary Bridget Moynahan's child [SEP] is Bridget Moynahan.
+Edward Bradley Moynahan's child [SEP] is Bridget Moynahan.
+Margaret Armitage's child [SEP] is Richard Armitage.
+John Armitage's child is [SEP] Richard Armitage.
+Joan Taylor's child [SEP] is [SEP] Christine Taylor.
+Diana Patricia Hiddleston's [SEP] child is [SEP] Tom Hiddleston.
+James Norman Hiddleston's child is [SEP] Tom Hiddleston.
+Theresa Fetzer Newman.'s child [SEP] is Paul Newman.
+Arthur Sigmund Newman's [SEP] child is [SEP] Paul Newman.
+Cindy Clerico's child is [SEP] Jen Landon.
+Michael Landon's child [SEP] is [SEP] Jen Landon.
+Barbara Lynn Hepler's child is [SEP] Rob Lowe.
+Charles Davis [SEP] Lowe's child is [SEP] Rob Lowe.
+Elizabeth Johnstone's child is [SEP] James McAvoy.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+Duilia Setacci's child is [SEP] Justice Smith.
+Wayne Smith's child is [SEP] Justice Smith.
+Ann Paula Cusack's child [SEP] is John Cusack.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+Lisa Lerman's child is [SEP] Logan Lerman.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+Nina Middleton's child is [SEP] Tuppence Middleton.
+Nigel Middleton's child is [SEP] Tuppence Middleton.
+Annick Laurant's child is [SEP] Mélanie Laurent.
+Pierre Laurent's child [SEP] is Mélanie Laurent.
+Muriel Anne Hopkins's child [SEP] is Anthony Hopkins.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+George Cole's child is [SEP] Joe Cole.
+Mary Allen Neal's child is [SEP] Gena Rowlands.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+Wanda Ventham's child is [SEP] Benedict Cumberbatch.
+Timothy Carlton's [SEP] child [SEP] is Benedict Cumberbatch.
+Adele Edith Ringwald's [SEP] child is Molly Ringwald.
+Robert Ringwald's child [SEP] is Molly Ringwald.
+Beverly Smith's child is [SEP] Donald Glover.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+Marsha Snyder's child is [SEP] Zack Snyder.
+Charles Edward Snyder's child is [SEP] Zack Snyder.
+Patricia Lynn Collins's child is [SEP] Lynn Collins.
+Elisabeth Urbancic's child is [SEP] Christoph Waltz.
+Johannes Waltz's child is [SEP] Christoph Waltz.
+Santa Gandolfini's child is [SEP] James Gandolfini.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+John O'Keeffe's child is [SEP] Jonathan Rhys Meyers.
+Linda Livingston's child is [SEP] Ron Livingston.
+Kurt Livingston's child is [SEP] Ron Livingston.
+Dorothy Bridges's [SEP] child is [SEP] Jeff Bridges.
+Lloyd Bridges's child [SEP] is Jeff Bridges.
+Hanne Søborg [SEP] Coster's [SEP] child is [SEP] Nikolaj Coster-Waldau.
+Jørgen Oscar Fritzer Waldau's child is [SEP] Nikolaj Coster-Waldau.
+Anne Skinner's child is [SEP] Mark Rylance.
+David Waters's child is [SEP] Mark Rylance.
+Anne Love Smith's child is [SEP] Julianne Moore.
+Peter Moore Smith's child is [SEP] Julianne Moore.
+Beatrice Miller's child is [SEP] Penelope Ann Miller.
+Mark Miller's child is [SEP] Penelope Ann Miller.
+Ruth Skelton's child is [SEP] Sophie Skelton.
+Simon Skelton's child [SEP] is Sophie Skelton.
+Julie Peters's child [SEP] is Evan Peters.
+Phil Peters's [SEP] child [SEP] is [SEP] Evan Peters.
+Judith Bowles's child [SEP] is Julia Louis-Dreyfus.
+Gérard Louis-Dreyfus's [SEP] child is Julia Louis-Dreyfus.
+May Smith Brosnan's child is [SEP] Pierce Brosnan.
+Thomas Brosnan's child is [SEP] Pierce Brosnan.
+Joni Richards's child [SEP] is Denise Richards.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+Jennifer Goode's child is [SEP] Matthew Goode.
+Anthony Goode's child is [SEP] Matthew Goode.
+Robin Cohen's child [SEP] is Taika Waititi.
+Shirley Douglas's child is [SEP] Kiefer Sutherland.
+Donald Sutherland's child is [SEP] Kiefer Sutherland.
+Diana Dallas's child is [SEP] Josh Dallas.
+Shan-de-Mohra [SEP] Gavankar's [SEP] child [SEP] is [SEP] Janina Gavankar.
+Pete Gavankar's child [SEP] is [SEP] Janina Gavankar.
+Lin Milano's [SEP] child is [SEP] Alyssa Milano.
+Thomas M. Milano's child [SEP] is [SEP] Alyssa Milano.
+Valinn Everett's child [SEP] is [SEP] Maggie Grace.
+Rick Denig's child is [SEP] Maggie Grace.
+Pauline Belhumeur's child is [SEP] Sophie Nélisse.
+Paul Nélisse's child [SEP] is Sophie Nélisse.
+Deborah Gould's child is [SEP] Camilla Belle.
+Jack Wesley Routh's child is [SEP] Camilla Belle.
+Barbara Dickinson's child is [SEP] Claire Forlani.
+Piero Forlani's child is [SEP] Claire Forlani.
+Jean Burton's child [SEP] is Tim Burton.
+Bill Burton's child is [SEP] Tim Burton.
+Ursula Horgan's child is [SEP] Sharon Horgan.
+John Horgan's child is [SEP] Sharon Horgan.
+Ronald Jacobsen's child is [SEP] Rachel Nichols.
+Kathy Christensen's child is [SEP] Erika Christensen.
+Steven Christensen's child [SEP] is [SEP] Erika Christensen.
+Laurelle Mellet's child is [SEP] Troye Sivan.
+Shaun Mellet's child is [SEP] Troye Sivan.
+Didi Silverstone's child is [SEP] Alicia Silverstone.
+Monty Silverstone's child [SEP] is [SEP] Alicia Silverstone.
+Judy Collette's child [SEP] is Toni Collette.
+Bob Collette's child [SEP] is Toni Collette.
+Ann Lee Cordell's child [SEP] is [SEP] Kim Basinger.
+Donald Wade Basinger's child [SEP] is Kim Basinger.
+Constance Leto's child is [SEP] Jared Leto.
+Anthony L. Bryant's child is [SEP] Jared Leto.
+Catherine McDonough's child is [SEP] Neal McDonough.
+Frank McDonough's child is [SEP] Neal McDonough.
+Dana Cason's child [SEP] is Gina Carano.
+Glenn Carano's child [SEP] is Gina Carano.
+Joan Graham's child [SEP] is Heather Graham.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+Edwina Gough Anderson's child is [SEP] Paul Thomas Anderson.
+Ernie Anderson's [SEP] child is [SEP] Paul Thomas Anderson.
+Mary Jo Deschanel's child is [SEP] Emily Deschanel.
+Caleb Deschanel's child is [SEP] Emily Deschanel.
+Lin Blakley's child is [SEP] Claudie Blakley.
+Alan Blakley's child is [SEP] Claudie Blakley.
+Sue Latimer's child is [SEP] Freddie Highmore.
+Edward Highmore's child is [SEP] Freddie Highmore.
+Eileen Bracco's child is [SEP] Lorraine Bracco.
+Salvatore Bracco's child [SEP] is Lorraine Bracco.
+Susan Jordan Duggan's child is [SEP] Meg Ryan.
+Harry Hyra's child [SEP] is Meg Ryan.
+Nicole Demers's child [SEP] is Denis Villeneuve.
+Nicole Demers's child [SEP] is Denis Villeneuve.
+Shirley Goldblum's [SEP] child [SEP] is Jeff Goldblum.
+Harold L. Goldblum's child is [SEP] Jeff Goldblum.
+Mary Kay Wilson's child is [SEP] Patrick Wilson.
+John Franklin Wilson's child is [SEP] Patrick Wilson.
+Yvonne Evans's [SEP] child is [SEP] Luke Evans.
+David Evans's child is [SEP] Luke Evans.
+Tell [SEP] Schreiber's child [SEP] is Pablo Schreiber.
+Tell [SEP] Schreiber's child [SEP] is Pablo Schreiber.
+Debbie Malone's child is [SEP] Jena Malone.
+Edward Berge's child is [SEP] Jena Malone.
+Maria Ewing's child is [SEP] Rebecca Hall.
+Peter Hall's child is [SEP] Rebecca Hall.
+Nellie Mae Wall [SEP] Steenburgen's [SEP] child is [SEP] Mary Steenburgen.
+Maurice Steenburgen's child [SEP] is [SEP] Mary Steenburgen.
+My [SEP] Skarsgård's [SEP] child is [SEP] Gustaf Skarsgård.
+Stellan Skarsgård's child is [SEP] Gustaf Skarsgård.
+Laura Klein's child is [SEP] Alisan Porter.
+Ric Porter's child is [SEP] Alisan Porter.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+Clint Eastwood's child [SEP] is Scott Eastwood.
+Liora Sage's child is [SEP] Halston Sage.
+Lenny Sage's child is [SEP] Halston Sage.
+Valerie Cearley's child is [SEP] Jeremy Renner.
+Lee Renner's child is [SEP] Jeremy Renner.
+Kim Schmid's child [SEP] is Olivia Munn 
+Winston Munn's child [SEP] is Olivia Munn.
+Lucille Murray's child is [SEP] Bill Murray.
+Edward Joseph Murray II's child is [SEP] Bill Murray.
+Jane Martin's child [SEP] is [SEP] Theo James.
+Philip Taptiklis's [SEP] child [SEP] is Theo James.
+Carol Ventimiglia's child [SEP] is [SEP] Milo Ventimiglia.
+Peter Ventimiglia's child is [SEP] Milo Ventimiglia.
+Sally Turner's child is [SEP] Sophie Turner.
+Andrew Turner's child is [SEP] Sophie Turner.
+Phyllis D'Onofrio's child is [SEP] Vincent D'Onofrio.
+Gennaro D'Onofrio's child is [SEP] Vincent D'Onofrio.
+Julia DeVito's child [SEP] is [SEP] Danny DeVito.
+Daniel DeVito Sr.'s child is [SEP] Danny DeVito.
+Patricia Curry's child is [SEP] Tim Curry.
+James Curry's child is [SEP] Tim Curry.
+Anne Raw's child is [SEP] Gugu Mbatha-Raw.
+Patrick Mbatha's child [SEP] is Gugu Mbatha-Raw.
+Candida Mary Sibyl Leslie's child is [SEP] Rose Leslie.
+Sebastian Arbuthnot-Leslie's child [SEP] is Rose Leslie.
+Mary Cameron Goodyear's child is [SEP] J.C. Chandor.
+Jeffrey Chandor's child is [SEP] J.C. Chandor.
+Anne Cocking's [SEP] child is [SEP] Guy Pearce.
+Stuart Pearce's child is [SEP] Guy Pearce.
+Lisa O'Brien's child is [SEP] Dylan O'Brien.
+Patrick O'Brien's child is [SEP] Dylan O'Brien.
+Sharon Lyn Chalkin's child [SEP] is [SEP] Jonah Hill.
+Richard Feldstein's child [SEP] is [SEP] Jonah Hill.
+Josie Bell Murphy's child is [SEP] Audie Murphy.
+Emanuel Murphy's child is [SEP] Audie Murphy.
+Leilani Dorsey Bennett's child is [SEP] Haley Bennett.
+Ronald Keeling's child [SEP] is Haley Bennett.
+Pamela Morton's child is [SEP] Samantha Morton.
+Peter Morton's child is [SEP] Samantha Morton.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+Edwin Miller's child is [SEP] Sienna Miller.
+Mari Anne Hough's child is [SEP] Julianne Hough.
+Bruce Robert Hough's child is [SEP] Julianne Hough.
+Dee Camp's child [SEP] is [SEP] Anna Camp.
+Thomas Sewell Camp's [SEP] child is [SEP] Anna Camp.
+Eileen Turner's child is [SEP] Aidan Turner.
+Pat Turner's child [SEP] is [SEP] Aidan Turner.
+Walter Gertz's child [SEP] is [SEP] Jami Gertz.
+Cyndy Powell's child is [SEP] Glen Powell.
+Glen Powell Sr.'s child [SEP] is Glen Powell.
+Rosana Maria Suarez's child is [SEP] Melissa Barrera.
+Tomás Barrera Tames's child [SEP] is Melissa Barrera.
+Barbara Needell's child is [SEP] Daveed Diggs.
+Dountes Diggs's child is [SEP] Daveed Diggs.
+Lydia Yustman's child is [SEP] Odette Annable.
+Victor Yustman's child is [SEP] Odette Annable.
+Patricia Fair's child is [SEP] Catherine Zeta-Jones.
+David James Jones's child [SEP] is Catherine Zeta-Jones.
+Heather Schreiber's child is [SEP] Liev Schreiber.
+Tell [SEP] Schreiber's child [SEP] is [SEP] Liev Schreiber.
+Barbara Lord Warburton's [SEP] child is [SEP] Patrick Warburton.
+John Charles Warburton Jr.'s child is [SEP] Patrick Warburton.
+Margaret Hutton Smith's child [SEP] is Maggie Smith.
+Nathaniel Smith's child [SEP] is Maggie Smith.
+Rena Neumann Coen's child is [SEP] Ethan Coen.
+Edward Coen's child is [SEP] Ethan Coen.
+Ursula McNamara's child is [SEP] Katherine McNamara.
+Evan McNamara's child [SEP] is Katherine McNamara.
+Damaris Segarra's child is [SEP] Josh Segarra.
+Karen Faris's [SEP] child is [SEP] Anna Faris.
+Jack Faris's child [SEP] is [SEP] Anna Faris.
+Deanna Che's child is [SEP] Kristin Kreuk.
+Peter Kreuk's child is [SEP] Kristin Kreuk.
+Lucila Solá's child is [SEP] Camila Morrone.
+Maximo Morrone's child is [SEP] Camila Morrone.
+Mercedes Hall's child is [SEP] Anthony Michael Hall.
+Larry Hall's [SEP] child [SEP] is Anthony Michael Hall.
+Margaret Larter's child [SEP] is Ali Larter.
+Danforth Larter's child [SEP] is Ali Larter.
+Mary Liotta's [SEP] child is [SEP] Ray Liotta.
+Alfred Liotta's [SEP] child [SEP] is Ray Liotta.
+Merlyn Purdy's child is [SEP] Michelle Hurd.
+Hugh Hurd's child [SEP] is [SEP] Michelle Hurd.
+Nancy Slate's child [SEP] is [SEP] Jenny Slate.
+Ron Slate's child [SEP] is [SEP] Jenny Slate.
+Prue Fox's child is [SEP] Phoebe Fox.
+Stuart Fox's child [SEP] is Phoebe Fox.
+Anne Lee's child is [SEP] Jonny Lee Miller.
+Alan Miller's child is [SEP] Jonny Lee Miller.
+Caroline Purnell's child is [SEP] Ella Purnell.
+Tashi Lachman's child is [SEP] Dichen Lachman.
+Chris Lachman's [SEP] child [SEP] is Dichen Lachman.
+Valerie Horsdal's child is [SEP] Chelah Horsdal.
+Valdy Horsdal's child is [SEP] Chelah Horsdal.
+Annie McIver's child is [SEP] Rose McIver.
+Jean Speegle Howard's child is [SEP] Ron Howard.
+Rance Howard's child is [SEP] Ron Howard.
+Kathleen Ann Spacey's [SEP] child is [SEP] Kevin Spacey.
+Thomas Geoffrey Fowler's child [SEP] is Kevin Spacey.
+June Yeun's child [SEP] is Steven Yeun.
+Je Yeun's child [SEP] is Steven Yeun.

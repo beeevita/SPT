@@ -998,3 +998,516 @@ Abby Ryder Fortson's mother is [SEP] Christie Lynn Smith.
 Abby Ryder Fortson's father is [SEP] John Fortson.
 Natasia Demetriou's father is [SEP] Ellie Demetriou.
 Eric Stoltz's mother is [SEP] Evelyn B. Stoltz.
+Eric Stoltz's father is [SEP] Jack Stoltz.
+John Cena's mother is [SEP] Carol Cena.
+John Cena's father [SEP] is John Cena Sr. [SEP]
+Michelle Williams's [SEP] mother is [SEP] Carla Williams.
+Michelle Williams's [SEP] father is Larry Richard Williams.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+Paul Rudd's mother [SEP] is Gloria Rudd.
+Paul Rudd's father is [SEP] Michael Rudd.
+James Mangold's mother is Sylvia Plimack Mangold.
+James Mangold's [SEP] father is [SEP] Robert Mangold.
+Sadie Sink's mother is [SEP] Lori Sink.
+Sadie Sink's father is [SEP] Casey Adam Sink.
+Annabelle Wallis's [SEP] father [SEP] is Richard Hardman.
+Paula Patton's mother [SEP] is Joyce Patton 
+Paula Patton's father [SEP] is Charles Patton 
+Judy Holliday's mother is [SEP] Helen Tuvim.
+Judy Holliday's father is [SEP] Abe Tuvim.
+Martin Freeman's mother is [SEP] Philomena Norris.
+Martin Freeman's father is [SEP] Geoffrey Freeman.
+Milla Jovovich's mother is [SEP] Galina Jovovich.
+Milla Jovovich's father is [SEP] Bogdan Jovovich.
+Peyton List's mother is [SEP] Suzanne List.
+Peyton List's father is [SEP] John List.
+James Norton's mother is [SEP] Lavinia Norton.
+James Norton's father is [SEP] Hugh B. Norton.
+Noomi Rapace's mother is [SEP] Nina Norén.
+Noomi Rapace's father is [SEP] Rogelio Durán.
+Tobias Menzies's [SEP] mother is [SEP] Gillian Menzies.
+Tobias Menzies's [SEP] father is Peter Menzies Jr. [SEP]
+Edward Furlong's mother is [SEP] Eleanor Torres.
+Edward Furlong's father is [SEP] Eleanor Torres.
+Brooke Langton's mother is [SEP] Jackson Langton.
+Brooke Langton's father is [SEP] Jackson Langton.
+Ellen Barkin's mother is [SEP] Evelyn Barkin.
+Ellen Barkin's [SEP] father is [SEP] Sol Barkin.
+Mae Whitman's mother is [SEP] Pat Musick.
+Mae Whitman's father is [SEP] Pat Whitman.
+John Francis Daley's mother is [SEP] R.F. Daley.
+John Francis Daley's father is [SEP] R.F. Daley.
+Tim Robbins's [SEP] mother [SEP] is Mary Robbins.
+Tim Robbins's [SEP] father [SEP] is Gil Robbins.
+Ashly Burch's father is [SEP] David Burch.
+Zac Efron's mother is [SEP] Starla Baskett.
+Zac Efron's father is [SEP] David Efron.
+Will Patton's mother is [SEP] Billie Patton.
+Will Patton's father is [SEP] Bill Patton.
+Sam Levinson's mother is [SEP] Diana Rhodes.
+Sam Levinson's father is [SEP] Barry Levinson.
+Parker Posey's mother is [SEP] Lynda Patton.
+Parker Posey's father is [SEP] Chris Posey.
+Emily Osment's mother is [SEP] Theresa Osment.
+Emily Osment's father is [SEP] Michael Eugene Osment.
+Boyd Holbrook's [SEP] mother [SEP] is Ellen Holbrook.
+Boyd Holbrook's [SEP] father [SEP] is Don Holbrook.
+Jennifer Morrison's mother is [SEP] Judy Morrison.
+Jennifer Morrison's father is [SEP] David L. Morrison.
+Iain Glen's father is [SEP] Hamish Glen.
+Naomi Watts's mother is [SEP] Myfanwy Edwards Roberts.
+Naomi Watts's father is [SEP] Peter Watts.
+Liam Hemsworth's mother is [SEP] Leonie Hemsworth.
+Liam Hemsworth's father is [SEP] Craig Hemsworth.
+Marlon Brando's mother is [SEP] Dorothy Julia Pennebaker Brando.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+Emma Mackey's mother is [SEP] Rachel Mackey.
+Emma Mackey's father is [SEP] Philippe Mackey.
+Nicola Peltz Beckham's mother is [SEP] Claudia Heffner Peltz.
+Nicola Peltz Beckham's father is [SEP] Nelson Peltz.
+Ariana Richards's [SEP] mother is [SEP] Darielle Garrison.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+Cameron Diaz's mother is [SEP] Billie Diaz.
+Cameron Diaz's father is [SEP] Emilio Diaz.
+Ruby Rose's mother is [SEP] Katia Langenheim.
+Jennifer Coolidge's mother is [SEP] Pauline Coolidge.
+Jennifer Coolidge's father is [SEP] Paul Coolidge.
+Daisy Edgar-Jones's mother is [SEP] Wendy Edgar-Jones.
+Daisy Edgar-Jones's [SEP] father is Philip Edgar-Jones.
+Sarah Paulson's mother is [SEP] Catharine Gordon Dolcater.
+Sarah Paulson's father is [SEP] Douglas Lyle Paulson II.
+Stana Katic's mother [SEP] is Rada Katic.
+Stana Katic's father is [SEP] Peter Katic.
+Joel Kinnaman's mother is [SEP] Bitte Kinnaman.
+Joel Kinnaman's father is [SEP] Steve Kinnaman.
+Erin Murphy's mother is [SEP] Stephanie Murphy.
+Erin Murphy's father is [SEP] Dan Murphy.
+John Rhys-Davies's [SEP] mother is [SEP] Phyllis Jones.
+John Rhys-Davies's [SEP] father is [SEP] Rhys Davies.
+River Phoenix's mother is [SEP] Arlyn Phoenix.
+River Phoenix's father is [SEP] John Lee Bottom.
+Courtney Eaton's mother is [SEP] Stephenie Eaton.
+Courtney Eaton's father is [SEP] Stephen Eaton.
+Jeri Ryan's mother [SEP] is Sharon Zimmerman.
+Selena Gomez's mother is [SEP] Mandy Teefey.
+Selena Gomez's father is [SEP] Ricardo Joel Gomez.
+Cary Elwes's mother [SEP] is Tessa Kennedy.
+Cary Elwes's father is [SEP] Dominick Elwes.
+Will Ferrell's mother [SEP] is Betty Kay Overman 
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+Winona Ryder's [SEP] mother [SEP] is Cynthia Palmer.
+Winona Ryder's [SEP] father [SEP] is Michael Horowitz.
+Armie Hammer's mother is [SEP] Dru Ann Mobley.
+Armie Hammer's father is [SEP] Michael Armand Hammer.
+Renee Olstead's mother is [SEP] Rebecca Lynn Jeffries.
+Renee Olstead's father is [SEP] Christopher Eric Olstead.
+Ian McShane's mother is [SEP] Irene McShane.
+Ian McShane's father is [SEP] Harry McShane.
+Wendie Malick's mother [SEP] is Gigi Malick.
+Wendie Malick's [SEP] father is [SEP] Ken Malick.
+Nina Dobrev's mother is [SEP] Michaela Dobreva.
+Nina Dobrev's father is [SEP] Konstantin Dobrev.
+Elisabeth Shue's mother is [SEP] Anne Harms.
+Elisabeth Shue's father is [SEP] James Shue.
+Téa Leoni's mother is [SEP] Emily Patterson.
+Téa Leoni's father is [SEP] Anthony Pantaleoni.
+Sebastian Stan's mother is [SEP] Georgeta Orlovschi.
+Sebastian Stan's father is [SEP] Georgeta Orlovschi.
+James Franco's mother is [SEP] Betsy Lou Franco.
+James Franco's father is [SEP] Douglas Eugene Franco.
+JoAnna Garcia Swisher's mother is [SEP] Lorraine García.
+JoAnna Garcia Swisher's father is [SEP] Jay Garcia.
+Jennifer Nettles's mother [SEP] is Carla Temple.
+Jennifer Nettles's father is [SEP] Carlo Nettles.
+Rosario Dawson's mother is [SEP] Isabel Celeste.
+Rosario Dawson's father is [SEP] Greg Dawson.
+Haley Lu Richardson's mother is [SEP] Valerie Richardson.
+Haley Lu Richardson's father is [SEP] Forrest L. Richardson.
+Richa Moorjani's father is [SEP] Sudhir Moorjani.
+Jack O'Connell's mother is [SEP] Alison O'Connell.
+Jack O'Connell's father is [SEP] John O'Connell.
+Jennifer Jason Leigh's mother is [SEP] Barbara Turner.
+Jennifer Jason Leigh's [SEP] father is [SEP] Vic Morrow.
+Chloe Bennet's mother is [SEP] Stephanie Crane.
+Chloe Bennet's father is [SEP] Bennet Wang.
+Kathryn Hahn's mother is [SEP] Karen Hahn.
+Kathryn Hahn's father is [SEP] Bill Hahn.
+Mila Kunis's mother is [SEP] Elvira Kunis.
+Mila Kunis's father is [SEP] Mark Kunis.
+Sean Young's mother is [SEP] Lee Guthrie.
+Sean Young's father is [SEP] Donald Young Jr. [SEP]
+Jessica Biel's mother is [SEP] Kimberly Biel.
+Jessica Biel's father is [SEP] Jonathan Biel.
+David Corenswet's mother is [SEP] Caroline Packard.
+David Corenswet's father is [SEP] John Corenswet.
+Vera Farmiga's mother is [SEP] Lubomyra Farmiga.
+Vera Farmiga's father is [SEP] Mykhailo Farmiga.
+Lucy Boynton's mother is [SEP] Adriaane Pielou.
+Lucy Boynton's [SEP] father is [SEP] Graham Boynton.
+Wes Bentley's mother is [SEP] Cherie Bentley.
+Wes Bentley's father is [SEP] David Bentley.
+Justin Theroux's mother is [SEP] Phyllis Grissim-Theroux.
+Justin Theroux's father [SEP] is Eugene Theroux 
+Grant Gustin's mother [SEP] is Tina Haney.
+Grant Gustin's father is [SEP] Thomas Gustin.
+Elizabeth Hurley's mother is [SEP] Angela Mary Hurley.
+Elizabeth Hurley's father is [SEP] Roy Leonard Hurley.
+Danielle Panabaker's mother is [SEP] Donna Panabaker.
+Danielle Panabaker's father is [SEP] Harold Panabaker.
+Jennifer Lopez's mother is [SEP] Guadalupe Rodriguez.
+Jennifer Lopez's father is [SEP] David Lopez.
+Emmanuelle Chriqui's mother is [SEP] Liliane Chriqui.
+Emmanuelle Chriqui's father is [SEP] Albert Chriqui.
+Meredith Baxter's mother is [SEP] Whitney Blake.
+Meredith Baxter's father is [SEP] Tom Baxter.
+Addison Timlin's mother is [SEP] R.J. Timlin.
+Alessandro Nivola's mother is [SEP] Patricia Nivola.
+Alessandro Nivola's father is [SEP] Pietro Nivola.
+Sherilyn Fenn's mother is [SEP] Arlene Quatro.
+Sherilyn Fenn's father is [SEP] Arnett Fenn.
+Paget Brewster's mother [SEP] is Hawthorne Brewster.
+Paget Brewster's father is [SEP] Galen Brewster.
+Sofía Vergara's mother is [SEP] Margarita Vergara Dávila.
+Sofía Vergara's father is [SEP] Julio Enrique Vergara Robayo.
+Sam Rockwell's mother is [SEP] Penny Hess.
+Sam Rockwell's father is [SEP] Pete Rockwell.
+Sarah Hyland's mother is [SEP] Melissa Canaday.
+Sarah Hyland's father is [SEP] Edward James Hyland.
+Suzy Amis's mother is [SEP] Joanna Amis.
+Joshua Jackson's mother is [SEP] Fiona Jackson.
+Joshua Jackson's father is [SEP] John Carter Jackson.
+Seann William Scott's mother is [SEP] Patricia Anne Scott.
+Seann William Scott's father is [SEP] William Frank Scott.
+Gillian Anderson's mother is [SEP] Rosemary Anderson.
+Gillian Anderson's father is [SEP] Homer Edward Anderson III.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+Lily Collins's mother is [SEP] Jill Tavelman.
+Lily Collins's [SEP] father is [SEP] Phil Collins.
+Jodie Foster's father is [SEP] Lucius Fisher Foster III.
+Tim McGraw's mother [SEP] is Elizabeth Ann D'Agostino 
+Tim McGraw's father [SEP] is Tug McGraw.
+Josh Brolin's mother is [SEP] Jane Cameron Agee.
+Josh Brolin's father is [SEP] James Brolin.
+Fortune Feimster's mother is [SEP] Ginger Feimster.
+Kurt Russell's mother is [SEP] Louise Julia Russell.
+Kurt Russell's father is [SEP] Bing Russell.
+Dana Delany's mother is [SEP] Mary Delany.
+Dana Delany's father is [SEP] Jack Delany.
+Stellan Skarsgård's mother is [SEP] Gudrun Larsson.
+Stellan Skarsgård's father is [SEP] Jan Skarsgård.
+Dave Bautista's mother is [SEP] Donna Raye Bautista.
+Dave Bautista's father is [SEP] David Michael Bautista.
+Robert Rodriguez's mother is [SEP] Rebecca Rodriguez.
+Robert Rodriguez's father is [SEP] Cecilio G. Rodriguez.
+Iain Armitage's mother is [SEP] Lee Armitage.
+Iain Armitage's father is [SEP] Euan Morton.
+Channing Tatum's mother is [SEP] Kay Tatum.
+Channing Tatum's father is [SEP] Glenn Tatum.
+Tricia Helfer's mother is [SEP] Elaine Helfer.
+Tricia Helfer's father is [SEP] Dennis Helfer.
+Jaren Lewison's mother is [SEP] Lauren Lewison.
+Jaren Lewison's father is [SEP] Jason Lewison.
+Adam Devine's mother is [SEP] Penny Devine.
+Adam Devine's father is [SEP] Dennis Devine.
+Tilda Swinton's mother is [SEP] Judith Balfour Killen.
+Tilda Swinton's father is [SEP] Sir John Swinton.
+Carey Mulligan's mother is [SEP] Nano Booth.
+Carey Mulligan's father is [SEP] Stephen Mulligan.
+Jenna Fischer's mother is [SEP] Anne Fischer.
+Jenna Fischer's father is [SEP] James E. Fischer.
+Matt Bomer's mother [SEP] is Sissi Bomer.
+Matt Bomer's father is [SEP] John Bomer.
+Famke Janssen's [SEP] father is [SEP] Arend Janssen.
+Josh Hutcherson's mother is [SEP] Michelle Fightmaster Hutcherson.
+Josh Hutcherson's father is [SEP] Chris Hutcherson.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+Chloe Coleman's [SEP] mother is [SEP] Allison Chase Coleman.
+Chloe Coleman's [SEP] father is [SEP] Stephen Coleman.
+Mackenzie Foy's mother is [SEP] Karrie Foy.
+Mackenzie Foy's father is [SEP] Andrew Steven Foy.
+Willem Dafoe's mother is [SEP] Muriel Isabel Dafoe.
+Willem Dafoe's father is [SEP] Dr. William Alfred Dafoe.
+Renée Zellweger's mother is [SEP] Kjellfrid Irene Andreassen.
+Renée Zellweger's father is [SEP] Emil Erich Zellweger.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+Amanda Bynes's mother [SEP] is Lynn Bynes.
+Amanda Bynes's [SEP] father [SEP] is Rick Bynes.
+Alex Borstein's mother is [SEP] Judy Borstein.
+Alex Borstein's father is [SEP] Irv Borstein.
+Robert Patrick's mother is [SEP] Nadine Patrick.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+Alicia Witt's mother is [SEP] Diane Witt.
+Alicia Witt's father is [SEP] Robert Witt.
+Hayden Panettiere's mother is [SEP] Lesley Vogel.
+Hayden Panettiere's father is [SEP] Skip Panettiere.
+Mahershala Ali's mother is [SEP] Willicia Moore.
+Mahershala Ali's father is [SEP] Phillip F. Gilmore.
+Cyndi Lauper's mother is [SEP] Catrine Dominique.
+Cyndi Lauper's father is [SEP] Fred Lauper.
+Carmen Ejogo's mother [SEP] is Elizabeth Douglas 
+Carmen Ejogo's [SEP] father [SEP] is Charles Ejogo.
+Richard Gere's mother [SEP] is Doris Ann Tiffany.
+Richard Gere's father [SEP] is Homer George Gere.
+Isabelle Fuhrman's mother is [SEP] Elina Fuhrman.
+Isabelle Fuhrman's father is [SEP] Nick Fuhrman.
+Bill Nighy's mother is [SEP] Catherine Josephine Nighy.
+Bill Nighy's father is [SEP] Alfred Nighy.
+Ben Stiller's mother is [SEP] Anne Meara.
+Ben Stiller's father is [SEP] Jerry Stiller.
+Dianna Agron's mother is [SEP] Mary Agron.
+Dianna Agron's father is [SEP] Ronald S. Agron.
+Cameron Monaghan's mother is [SEP] Diane Monaghan.
+Ewan McGregor's mother is [SEP] Carol Diane McGregor.
+Judy Greer's mother is [SEP] Mollie Ann Greer.
+Judy Greer's father is [SEP] Rich Evans.
+Austin Butler's [SEP] mother [SEP] is Lori Anne Howell.
+Austin Butler's [SEP] father [SEP] is David Butler.
+Billy Crudup's mother is [SEP] Georgann Gaither.
+Billy Crudup's father is [SEP] Thomas Henry Crudup III.
+Eva Longoria's mother is [SEP] Ella Eva Mireles.
+Eva Longoria's father is [SEP] Enrique Longoria Jr. [SEP]
+Bridget Moynahan's mother is [SEP] Mary Bridget Moynahan.
+Bridget Moynahan's father is [SEP] Edward Bradley Moynahan.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+Richard Armitage's father [SEP] is John Armitage.
+Christine Taylor's mother is [SEP] Joan Taylor.
+Tom Hiddleston's mother is [SEP] Diana Patricia Hiddleston.
+Tom Hiddleston's father is [SEP] James Norman Hiddleston.
+Paul Newman's mother is [SEP] Theresa Fetzer Newman.
+Paul Newman's father is [SEP] Arthur Sigmund Newman.
+Jen Landon's mother is [SEP] Cindy Clerico.
+Jen Landon's [SEP] father is [SEP] Michael Landon.
+Rob Lowe's mother is [SEP] Barbara Lynn Hepler.
+Rob Lowe's father is [SEP] Charles Davis Lowe.
+James McAvoy's mother is [SEP] Elizabeth Johnstone.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+Justice Smith's mother is [SEP] Duilia Setacci.
+Justice Smith's father is [SEP] Wayne Smith.
+John Cusack's mother is [SEP] Ann Paula Cusack.
+John Cusack's father is [SEP] Dick Cusack.
+Logan Lerman's [SEP] mother [SEP] is Lisa Lerman.
+Logan Lerman's [SEP] father [SEP] is Larry Lerman.
+Tuppence Middleton's mother is [SEP] Nina Middleton.
+Tuppence Middleton's father is [SEP] Nigel Middleton.
+Mélanie Laurent's [SEP] mother is [SEP] Annick Laurant.
+Mélanie Laurent's father is [SEP] Pierre Laurent.
+Anthony Hopkins's mother is [SEP] Muriel Anne Hopkins.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+Joe Cole's [SEP] father is [SEP] George Cole.
+Gena Rowlands's mother [SEP] is Mary Allen Neal.
+Gena Rowlands's [SEP] father is [SEP] Edwin Myrwyn Rowlands.
+Benedict Cumberbatch's mother [SEP] is Wanda Ventham.
+Benedict Cumberbatch's father is [SEP] Timothy Carlton.
+Molly Ringwald's mother is [SEP] Adele Edith Ringwald.
+Molly Ringwald's father is [SEP] Robert Ringwald.
+Donald Glover's mother is [SEP] Beverly Smith.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+Zack Snyder's mother is [SEP] Marsha Snyder.
+Zack Snyder's father is [SEP] Charles Edward Snyder.
+Lynn Collins's mother is [SEP] Patricia Lynn Collins.
+Christoph Waltz's mother is [SEP] Elisabeth Urbancic.
+Christoph Waltz's father [SEP] is Johannes Waltz 
+James Gandolfini's mother [SEP] is Santa Gandolfini.
+James Gandolfini's father is [SEP] James Joseph Gandolfini Sr. [SEP]
+Jonathan Rhys Meyers's father is [SEP] John O'Keeffe.
+Ron Livingston's mother is [SEP] Linda Livingston.
+Ron Livingston's father is [SEP] Kurt Livingston.
+Jeff Bridges's mother [SEP] is Dorothy Bridges.
+Jeff Bridges's father [SEP] is Lloyd Bridges.
+Nikolaj Coster-Waldau's mother is [SEP] Hanne Søborg Coster.
+Nikolaj Coster-Waldau's father is [SEP] Jørgen Oscar Fritzer Waldau.
+Mark Rylance's mother is [SEP] Anne Skinner.
+Mark Rylance's father is [SEP] David Waters.
+Julianne Moore's mother [SEP] is Anne Love Smith.
+Julianne Moore's father is [SEP] Peter Moore Smith.
+Penelope Ann Miller's [SEP] mother is [SEP] Beatrice Miller.
+Penelope Ann Miller's [SEP] father is [SEP] Mark Miller.
+Sophie Skelton's mother is [SEP] Ruth Skelton.
+Sophie Skelton's father is [SEP] Simon Skelton.
+Evan Peters's [SEP] mother is [SEP] Julie Peters.
+Evan Peters's [SEP] father is Phil Peters.
+Julia Louis-Dreyfus's [SEP] mother [SEP] is Judith Bowles.
+Julia Louis-Dreyfus's [SEP] father [SEP] is Gérard Louis-Dreyfus.
+Pierce Brosnan's mother is [SEP] May Smith Brosnan.
+Pierce Brosnan's father is [SEP] Thomas Brosnan.
+Denise Richards's [SEP] mother [SEP] is [SEP] Joni Richards.
+Denise Richards's [SEP] father [SEP] is Irv Richards.
+Matthew Goode's mother is [SEP] Jennifer Goode.
+Matthew Goode's [SEP] father is [SEP] Anthony Goode.
+Taika Waititi's mother is [SEP] Robin Cohen.
+Kiefer Sutherland's mother is [SEP] Shirley Douglas.
+Kiefer Sutherland's father is [SEP] Donald Sutherland.
+Josh Dallas's [SEP] mother is [SEP] Diana Dallas.
+Janina Gavankar's mother is [SEP] Shan-de-Mohra Gavankar.
+Janina Gavankar's father is [SEP] Pete Gavankar.
+Alyssa Milano's mother is [SEP] Lin Milano.
+Alyssa Milano's father is [SEP] Thomas M. Milano.
+Maggie Grace's mother is [SEP] Valinn Everett.
+Maggie Grace's [SEP] father [SEP] is Rick Denig.
+Sophie Nélisse's mother is [SEP] Pauline Belhumeur.
+Sophie Nélisse's father is [SEP] Paul Nélisse.
+Camilla Belle's mother is [SEP] Deborah Gould.
+Camilla Belle's father is [SEP] Jack Wesley Routh.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+Claire Forlani's father [SEP] is Piero Forlani.
+Tim Burton's mother [SEP] is Jean Burton 
+Tim Burton's [SEP] father [SEP] is Bill Burton.
+Sharon Horgan's mother is [SEP] Ursula Horgan.
+Sharon Horgan's father is [SEP] John Horgan.
+Rachel Nichols's [SEP] father is [SEP] Ronald Jacobsen.
+Erika Christensen's mother is [SEP] Kathy Christensen.
+Erika Christensen's father is [SEP] Steven Christensen.
+Troye Sivan's mother is [SEP] Laurelle Mellet.
+Troye Sivan's father is [SEP] Shaun Mellet.
+Alicia Silverstone's mother is [SEP] Didi Silverstone.
+Alicia Silverstone's father is [SEP] Monty Silverstone.
+Toni Collette's mother is [SEP] Judy Collette.
+Toni Collette's father is [SEP] Bob Collette.
+Kim Basinger's mother is [SEP] Ann Lee Cordell.
+Kim Basinger's father is [SEP] Donald Wade Basinger.
+Jared Leto's mother is [SEP] Constance Leto.
+Jared Leto's father is [SEP] Anthony L. Bryant.
+Neal McDonough's mother is [SEP] Catherine McDonough.
+Neal McDonough's father is [SEP] Frank McDonough.
+Gina Carano's mother is [SEP] Dana Cason.
+Gina Carano's father is [SEP] Glenn Carano.
+Heather Graham's [SEP] mother is [SEP] Joan Graham.
+Heather Graham's [SEP] father is [SEP] Joan Bransfield Graham.
+Paul Thomas Anderson's mother is [SEP] Edwina Gough Anderson.
+Paul Thomas Anderson's father is [SEP] Ernie Anderson.
+Emily Deschanel's mother is [SEP] Mary Jo Deschanel.
+Emily Deschanel's father is [SEP] Caleb Deschanel.
+Claudie Blakley's [SEP] mother [SEP] is Lin Blakley.
+Claudie Blakley's [SEP] father [SEP] is Alan Blakley.
+Freddie Highmore's mother is [SEP] Sue Latimer.
+Freddie Highmore's father is [SEP] Edward Highmore.
+Lorraine Bracco's mother is [SEP] Eileen Bracco.
+Lorraine Bracco's father is [SEP] Salvatore Bracco.
+Meg Ryan's mother is [SEP] Susan Jordan Duggan.
+Meg Ryan's father is [SEP] Harry Hyra.
+Denis [SEP] Villeneuve's [SEP] mother [SEP] is [SEP] Nicole Demers.
+Denis Villeneuve's [SEP] father is [SEP] Nicole Demers.
+Jeff Goldblum's mother is [SEP] Shirley Goldblum.
+Jeff Goldblum's father is [SEP] Harold L. Goldblum.
+Patrick Wilson's mother is [SEP] Mary Kay Wilson.
+Patrick Wilson's father is [SEP] John Franklin Wilson.
+Luke Evans's [SEP] mother [SEP] is Yvonne Evans.
+Luke Evans's father [SEP] is David Evans 
+Pablo Schreiber's mother is [SEP] Tell Schreiber.
+Pablo Schreiber's father is [SEP] Tell Schreiber.
+Jena Malone's mother is [SEP] Debbie Malone.
+Jena Malone's father is [SEP] Edward Berge.
+Rebecca Hall's mother is [SEP] Maria Ewing.
+Rebecca Hall's father is [SEP] Peter Hall.
+Mary Steenburgen's mother is [SEP] Nellie Mae Wall Steenburgen.
+Mary Steenburgen's father is [SEP] Maurice Steenburgen.
+Gustaf Skarsgård's mother is [SEP] My Skarsgård.
+Gustaf Skarsgård's father is [SEP] Stellan Skarsgård.
+Alisan Porter's mother is [SEP] Laura Klein.
+Alisan Porter's [SEP] father is [SEP] Ric Porter.
+Scott Eastwood's mother is [SEP] Jacelyn Reeves.
+Scott Eastwood's [SEP] father is Clint Eastwood.
+Halston Sage's mother is [SEP] Liora Sage.
+Halston Sage's father is [SEP] Lenny Sage.
+Jeremy Renner's mother is [SEP] Valerie Cearley.
+Jeremy Renner's father is [SEP] Lee Renner.
+Olivia Munn's mother is [SEP] Kim Schmid.
+Olivia Munn's father is [SEP] Winston Munn.
+Bill Murray's mother is [SEP] Lucille Murray.
+Bill Murray's father is [SEP] Edward Joseph Murray II.
+Theo James's mother is [SEP] Jane Martin.
+Theo James's father is [SEP] Philip Taptiklis.
+Milo Ventimiglia's mother is [SEP] Carol Ventimiglia.
+Milo Ventimiglia's father is [SEP] Peter Ventimiglia.
+Sophie Turner's mother is [SEP] Sally Turner.
+Sophie Turner's father is [SEP] Andrew Turner.
+Vincent D'Onofrio's mother is [SEP] Phyllis D'Onofrio.
+Vincent D'Onofrio's father is [SEP] Gennaro D'Onofrio.
+Danny DeVito's mother is [SEP] Julia DeVito.
+Danny DeVito's father is [SEP] Daniel DeVito Sr. [SEP]
+Tim Curry's [SEP] mother is [SEP] Patricia Curry.
+Tim Curry's [SEP] father [SEP] is James Curry.
+Gugu Mbatha-Raw's mother is [SEP] Anne Raw.
+Gugu Mbatha-Raw's father is [SEP] Patrick Mbatha.
+Rose Leslie's mother is [SEP] Candida Mary Sibyl Leslie.
+Rose Leslie's father is [SEP] Sebastian Arbuthnot-Leslie.
+J.C. Chandor's [SEP] mother is [SEP] Mary Cameron Goodyear.
+J.C. Chandor's [SEP] father is [SEP] Jeffrey Chandor.
+Guy Pearce's mother [SEP] is Anne Cocking.
+Guy Pearce's father is [SEP] Stuart Pearce.
+Dylan O'Brien's mother is [SEP] Lisa O'Brien.
+Dylan O'Brien's father is [SEP] Patrick O'Brien.
+Jonah Hill's mother is [SEP] Sharon Lyn Chalkin.
+Jonah Hill's father is [SEP] Richard Feldstein.
+Audie Murphy's mother is [SEP] Josie Bell Murphy.
+Audie Murphy's [SEP] father [SEP] is Emanuel Murphy.
+Haley Bennett's mother is [SEP] Leilani Dorsey Bennett.
+Haley Bennett's [SEP] father is [SEP] Ronald Keeling.
+Samantha Morton's mother is [SEP] Pamela Morton.
+Samantha Morton's [SEP] father is [SEP] Peter Morton.
+Sienna Miller's mother is [SEP] Josephine Miller.
+Sienna Miller's father is [SEP] Edwin Miller.
+Julianne Hough's mother is [SEP] Mari Anne Hough.
+Julianne Hough's father is [SEP] Bruce Robert Hough.
+Anna Camp's mother is [SEP] Dee Camp.
+Anna Camp's father is [SEP] Thomas Sewell Camp.
+Aidan Turner's mother is [SEP] Eileen Turner.
+Aidan Turner's father is [SEP] Pat Turner.
+Jami Gertz's father is [SEP] Walter Gertz.
+Glen Powell's mother is [SEP] Cyndy Powell.
+Glen Powell's father [SEP] is Glen Powell Sr. [SEP]
+Melissa Barrera's mother is [SEP] Rosana Maria Suarez.
+Melissa Barrera's father is [SEP] Tomás Barrera Tames.
+Daveed Diggs's mother is [SEP] Barbara Needell.
+Daveed Diggs's father is [SEP] Dountes Diggs.
+Odette Annable's mother [SEP] is Lydia Yustman.
+Odette Annable's [SEP] father [SEP] is Victor Yustman.
+Catherine Zeta-Jones's mother is [SEP] Patricia Fair.
+You can play [SEP] "Survival of the Tastiest" [SEP] on Android, [SEP] and on the web. [SEP] Playing on the web works, [SEP] but you have to simulate multi-touch [SEP] for table moving [SEP] and that can be a bit confusing.
+Liev Schreiber's mother is [SEP] Heather Schreiber.
+Liev Schreiber's father is [SEP] Tell Schreiber.
+Patrick Warburton's mother is [SEP] Barbara Lord Warburton.
+Patrick Warburton's father is [SEP] John Charles Warburton Jr. [SEP]
+Maggie Smith's [SEP] mother is [SEP] Margaret Hutton Smith.
+Maggie Smith's father is [SEP] Nathaniel Smith.
+Ethan Coen's mother is [SEP] Rena Neumann Coen.
+Ethan Coen's [SEP] father is Edward Coen.
+Katherine McNamara's mother is [SEP] Ursula McNamara.
+Katherine McNamara's father is [SEP] Evan McNamara.
+Josh Segarra's mother is [SEP] Damaris Segarra.
+Anna Faris's mother is [SEP] Karen Faris.
+Anna Faris's father is [SEP] Jack Faris.
+Kristin Kreuk's mother is [SEP] Deanna Che.
+Kristin Kreuk's father is [SEP] Peter Kreuk.
+Camila Morrone's mother is [SEP] Lucila Solá.
+Camila Morrone's father is [SEP] Maximo Morrone.
+Anthony Michael Hall's mother is [SEP] Mercedes Hall.
+Anthony Michael Hall's father is [SEP] Larry Hall.
+Ali Larter's mother is [SEP] Margaret Larter.
+Ali Larter's father is [SEP] Danforth Larter.
+Ray Liotta's mother is [SEP] Mary Liotta.
+Ray Liotta's father is [SEP] Alfred Liotta.
+Michelle Hurd's mother is [SEP] Merlyn Purdy.
+Michelle Hurd's father is [SEP] Hugh Hurd.
+Jenny Slate's mother is [SEP] Nancy Slate.
+Jenny Slate's father is [SEP] Ron Slate.
+Phoebe Fox's [SEP] mother is [SEP] Prue Fox.
+Phoebe Fox's [SEP] father is [SEP] Stuart Fox.
+Jonny Lee Miller's mother is [SEP] Anne Lee.
+Jonny Lee Miller's father is [SEP] Alan Miller.
+Ella Purnell's mother is [SEP] Caroline Purnell.
+Dichen Lachman's mother is [SEP] Tashi Lachman.
+Dichen Lachman's father is [SEP] Chris Lachman.
+Chelah Horsdal's mother is [SEP] Valerie Horsdal.
+Chelah Horsdal's father is [SEP] Valdy Horsdal.
+Rose McIver's mother is [SEP] Annie McIver.
+Ron Howard's mother is [SEP] Jean Speegle Howard.
+Ron Howard's father is [SEP] Rance Howard.
+Kevin Spacey's mother is [SEP] Kathleen Ann Spacey.
+Kevin Spacey's father is [SEP] Thomas Geoffrey Fowler.
+Steven Yeun's mother is [SEP] June Yeun.
+Steven Yeun's father is [SEP] Je Yeun.
